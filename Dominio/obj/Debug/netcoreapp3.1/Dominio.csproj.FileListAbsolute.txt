@@ -1,0 +1,9 @@
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\edson\source\repos\CursoWEBAPI\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
